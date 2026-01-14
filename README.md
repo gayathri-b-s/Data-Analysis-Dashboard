@@ -59,7 +59,7 @@ POWERBI DASHBOARD
 TABLEAU DASHBOARD
 <img width="1655" height="794" alt="TABLEAU DASHBOARD" src="https://github.com/user-attachments/assets/58ea1373-6015-404d-8d18-e4e22a7cf7cc" />
 
-##Project Insight
+## Project Insight
 
 •	The healthcare system manages 10,000 patients with 1,000 doctors, resulting in an average workload of 10 patients per doctor, indicating balanced resource utilization.
 
@@ -81,7 +81,7 @@ TABLEAU DASHBOARD
 
 •	Texas, California, and Florida account for the highest number of insurance providers, suggesting stronger insurance penetration or higher patient volumes in these states.
 
-##Final Conclusion:
+## Final Conclusion
 
 This healthcare analytics project demonstrates how data-driven insights can support better clinical and operational decision-making. By integrating and analyzing patient demographics, doctor availability, treatment patterns, laboratory outcomes, and visit behaviors, the dashboard provides a comprehensive view of healthcare performance. The analysis highlights balanced doctor workloads, a significant proportion of abnormal lab results requiring follow-up, and consistent treatment completion trends across care types. Overall, the project showcases effective use of Excel, Power BI, and Tableau to transform raw healthcare data into meaningful insights, enabling stakeholders to improve patient care, optimize resources, and enhance operational efficiency.
 
