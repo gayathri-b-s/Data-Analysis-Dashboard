@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-An interactive healthcare analytics project that transforms raw data into actionable insights using Excel, Power BI, and Tableau. The repository showcases data cleaning, KPI analysis, and interactive dashboards to support data-driven healthcare decisions.
+# Data-Analysis-Dashboard (Interactive Healthcare Dashboard Using Excel,PowerBI and Tableu)
+## Project Objective
+To leverage healthcare data analysis to uncover trends in patient outcomes, disease patterns, and resource utilization, enabling hospitals and healthcare organizations to make informed, evidence-based decisions.
+
