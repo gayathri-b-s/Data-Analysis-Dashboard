@@ -34,3 +34,10 @@ To leverage healthcare data analysis to uncover trends in patient outcomes, dise
 
 -<a href="https://github.com/gayathri-b-s/Data-Analysis-Dashboard/blob/aeffdd1ecef1e3f0167890b476c1c54e7abb39db/TABLEAU%20DASHBOARD.png">Tableau Dashboard</a>
 
+## Process
+•	Verified the dataset for duplicate records and missing values, and resolved identified data quality issues.
+•	Ensured data consistency and cleanliness by validating data types, formats, and standardized value entries.
+•	Created pivot tables based on key performance indicators (KPIs) to support analytical insights.
+•	Consolidated all pivot tables into a single interactive Excel dashboard, applying slicers to enable dynamic filtering.
+•	Imported the same dataset into Power BI and developed an enhanced dashboard using DAX measures and advanced visualizations.
+•	Implemented advanced analytical features in Tableau, including calculated fields, parameters, filters, and slicers for deeper insights.
