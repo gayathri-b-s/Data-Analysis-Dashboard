@@ -59,5 +59,30 @@ POWERBI DASHBOARD
 TABLEAU DASHBOARD
 <img width="1655" height="794" alt="TABLEAU DASHBOARD" src="https://github.com/user-attachments/assets/58ea1373-6015-404d-8d18-e4e22a7cf7cc" />
 
+##Project Insight
+
+•	The healthcare system manages 10,000 patients with 1,000 doctors, resulting in an average workload of 10 patients per doctor, indicating balanced resource utilization.
+
+•	The follow-up rate of 49.84% shows that nearly half of the patients return for continued care, reflecting moderate patient engagement.
+
+•	Around 33.54% of laboratory test results are abnormal, highlighting a significant volume of cases requiring medical attention and follow-up.
+
+•	Asthma, Diabetes, Hypertension, Migraine, and general health checkups are the most frequently diagnosed conditions, each contributing almost equally to the overall case load.
+
+•	The average treatment cost is 524.75, serving as a useful benchmark for cost analysis and financial planning.
+
+•	Treatment outcomes across medication, surgery, vaccination, and physical therapy show a relatively even distribution among completed, ongoing, and discontinued statuses.
+
+•	General Medicine and Cardiology have the highest number of doctors, ensuring adequate coverage for common and chronic conditions.
+
+•	The most experienced doctors have 49 to 66 years of experience, indicating strong senior expertise within the organization.
+
+•	Visit types such as emergency, follow-up, routine checkups, and specialist consultations display a balanced distribution across completed, scheduled, and cancelled visits.
+
+•	Texas, California, and Florida account for the highest number of insurance providers, suggesting stronger insurance penetration or higher patient volumes in these states.
+
+##Final Conclusion:
+
+This healthcare analytics project demonstrates how data-driven insights can support better clinical and operational decision-making. By integrating and analyzing patient demographics, doctor availability, treatment patterns, laboratory outcomes, and visit behaviors, the dashboard provides a comprehensive view of healthcare performance. The analysis highlights balanced doctor workloads, a significant proportion of abnormal lab results requiring follow-up, and consistent treatment completion trends across care types. Overall, the project showcases effective use of Excel, Power BI, and Tableau to transform raw healthcare data into meaningful insights, enabling stakeholders to improve patient care, optimize resources, and enhance operational efficiency.
 
 
